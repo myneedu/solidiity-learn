@@ -1,1 +1,1 @@
-# solidiity-learn
+# solidity-learn
